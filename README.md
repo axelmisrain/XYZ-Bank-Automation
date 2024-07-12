@@ -1,6 +1,7 @@
 # XYZ-Bank Automation
 ## Screen of Test Running
-"C:\Users\axelm\Videos\2024-07-12 15-21-00.mkv"
+
+https://github.com/user-attachments/assets/7165d042-43ee-426b-85ee-90793042eaae
 
 ## HTML TestNG Runner Sample
 
