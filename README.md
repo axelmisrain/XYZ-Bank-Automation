@@ -36,7 +36,7 @@ The automation tool selected for this project is Selenium version 4.20.0 with pr
 The following test data will be used for automation testing:
 - Usernames and passwords.
 - User information (First name, Last name, Zip/Postal Code).
-- There is configuration reader filed to hide sensitive data.
+- There is configuration reader file to hide sensitive data.
   
 ## Test cases
 1. Validate Login Information.
