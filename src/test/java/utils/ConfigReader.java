@@ -7,13 +7,12 @@ import java.util.Properties;
 
 public class ConfigReader {
 
-    //This is for reading sensitive data from file and avoid hard coding
     public static String readProperty(String key){
 
         File file = new File("configuration.properties");
         Properties properties= new Properties();
 
-        try {//we through the exception in case we do not provide the correct data so the code would run, but it will show us the exception at the end.
+        try {
             properties.load(new FileInputStream(file));
         } catch (IOException e) {
             throw new RuntimeException(e);
