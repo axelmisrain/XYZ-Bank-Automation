@@ -10,9 +10,6 @@ import java.time.Duration;
 
 public class DriverHelper {
 
-    //Singleton Pattern Design
-    //You cannot create an object from this class(private
-    //We will apply Encapsulation
 
     private static WebDriver driver;
 
