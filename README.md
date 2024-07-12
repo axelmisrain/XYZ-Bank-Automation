@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/7165d042-43ee-426b-85ee-90793042eaae
 ![](https://github.com/user-attachments/assets/bfc47b43-33d3-47dd-8bab-53fc0f0b01e6)
 
 ## Automation Test Plan
-This document outlines the automation testing plan for XYZ Bank, following POM and Test-Driven Development TDD. 
+This document outlines the automation testing plan for XYZ Bank, following POM and Test-Driven Development TDD framework. 
 
 ## Objectives
 The objectives of automation testing for the XYZ Bank are as follows:
@@ -28,21 +28,22 @@ The scope of automation testing includes:
 The automation tool selected for this project is Selenium version 4.20.0 with programing languaje Java following Page Object Model and a TDD framework (pages, tests, runners).
 
 ## Test Enviroment
-- Browser: Google Chrome Version 126.0.6478.127
-- Programing Language: Java, JavaScript
-- Integrated Development Enviroment: IntelliJ
+- Browser: Google Chrome Version 126.0.6478.127.
+- Programing Language: Java, JavaScript.
+- Integrated Development Enviroment: IntelliJ.
 
 ## Test Data
 The following test data will be used for automation testing:
-- Usernames and passwords
-- User information (First name, Last name, Zip/Postal Code)
+- Usernames and passwords.
+- User information (First name, Last name, Zip/Postal Code).
+- There is configuration reader filed to hide sensitive data.
   
 ## Test cases
-1. Validate Login Information
-2. Validate Customer Transaccion
+1. Validate Login Information.
+2. Validate Customer Transaccion.
 3. Validate Customer Functionality with Test Parameter to hide sensitive data.
-4. Validate Customer Functionality
-5. Validate Open Account Functionality
+4. Validate Customer Functionality.
+5. Validate Open Account Functionality.
 6. Validate Customers Functionality in Home page. 
 
 ## Test Execution
