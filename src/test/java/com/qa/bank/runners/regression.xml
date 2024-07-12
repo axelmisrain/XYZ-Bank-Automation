@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression Suit">
+    <test name="Bank Test">
+
+        <parameter name="firstName" value="Axel"> </parameter>
+        <parameter name="lastName" value="Gomez"> </parameter>
+        <parameter name="postCode" value="60016"> </parameter>
+        <parameter name="expectedMessage" value="Customer added successfully with customer id :6"> </parameter>
+
+        <classes>
+            <class name="com.qa.bank.test.BankLoginTest"> </class>
+            <class name="com.qa.bank.test.BankCustomerLoginTest"> </class>
+            <class name="com.qa.bank.test.BankManagerTest"> </class>
+        </classes>
+
+    </test>
+
+
+</suite>

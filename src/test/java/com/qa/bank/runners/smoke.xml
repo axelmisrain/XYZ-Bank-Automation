@@ -1,0 +1,17 @@
+<!--We se xml file to create out Smoke and Regression Suite for TestNG-->
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Smoke Suite">
+
+    <test name="Bank Test">
+
+        <classes>
+            <class name="com.qa.Bank.test.BankLoginTest"> </class>
+
+        </classes>
+
+    </test>
+
+
+</suite>
