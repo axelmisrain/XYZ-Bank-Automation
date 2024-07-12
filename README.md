@@ -38,12 +38,12 @@ The following test data will be used for automation testing:
 - User information (First name, Last name, Zip/Postal Code)
   
 ## Test cases
-- Validate Login Information
-- Validate Customer Transaccion
-- Validate Customer Functionality with Test Parameter to hide sensitive data.
-- Validate Customer Functionality
-- Validate Open Account Functionality
-- Validate Customers Functionality in Home page. 
+1. Validate Login Information
+2. Validate Customer Transaccion
+3. Validate Customer Functionality with Test Parameter to hide sensitive data.
+4. Validate Customer Functionality
+5. Validate Open Account Functionality
+6. Validate Customers Functionality in Home page. 
 
 ## Test Execution
 The automation testing process will follow the below steps:
