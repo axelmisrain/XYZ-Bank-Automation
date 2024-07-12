@@ -1,4 +1,7 @@
 # XYZ-Bank Automation
+## HTML TestNG Runner Sample
+![XYZ-Bank](https://github.com/user-attachments/assets/21a39d83-e69c-4024-a64d-0015924376ae)
+
 ## Automation Test Plan
 This document outlines the automation testing plan for XYZ Bank
 
