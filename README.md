@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/7165d042-43ee-426b-85ee-90793042eaae
 ![](https://github.com/user-attachments/assets/bfc47b43-33d3-47dd-8bab-53fc0f0b01e6)
 
 ## Automation Test Plan
-This document outlines the automation testing plan for XYZ Bank, following POM and Testing Driven Development TDD. 
+This document outlines the automation testing plan for XYZ Bank, following POM and Test-Driven Development TDD. 
 
 ## Objectives
 The objectives of automation testing for the XYZ Bank are as follows:
