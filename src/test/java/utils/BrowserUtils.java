@@ -34,17 +34,17 @@ public class BrowserUtils {
         }
     }
 
-    public static String getTitleWithJS(WebDriver driver){//This is the same logic as the methods in JavaScriptMethods
+    public static String getTitleWithJS(WebDriver driver){
         JavascriptExecutor js = (JavascriptExecutor) driver;
         return js.executeScript("return document.title").toString().trim();
     }
 
-    public static void clickWithJS(WebDriver driver, WebElement element){ //This is the same logic as the methods in JavaScriptMethods
+    public static void clickWithJS(WebDriver driver, WebElement element){ 
         JavascriptExecutor js = (JavascriptExecutor) driver;
         js.executeScript("arguments[0].click()", element);
     }
 
-    public static void scrollWithJS(WebDriver driver, WebElement element){//This is the same logic as the methods in JavaScriptMethods
+    public static void scrollWithJS(WebDriver driver, WebElement element){
         JavascriptExecutor js = (JavascriptExecutor) driver;
         js.executeScript("arguments[0].scrollIntoView(true)", element);
     }
