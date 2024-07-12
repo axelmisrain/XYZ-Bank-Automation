@@ -1,6 +1,6 @@
 # XYZ-Bank Automation
 ## HTML TestNG Runner Sample
-![XYZ-Bank](https://github.com/user-attachments/assets/21a39d83-e69c-4024-a64d-0015924376ae)
+![XYZ Bank](https://github.com/user-attachments/assets/bfc47b43-33d3-47dd-8bab-53fc0f0b01e6)
 
 ## Automation Test Plan
 This document outlines the automation testing plan for XYZ Bank
@@ -31,6 +31,14 @@ The automation tool selected for this project is Selenium version 4.20.0 with pr
 The following test data will be used for automation testing:
 - Usernames and passwords
 - User information (First name, Last name, Zip/Postal Code)
+  
+## Test cases
+- Validate Login Information
+- Validate Customer Transaccion
+- Validate Customer Functionality with Test Parameter to hide sensitive data.
+- Validate Customer Functionality
+- Validate Open Account Functionality
+- Validate Customers Functionality in Home page. 
 
 ## Test Execution
 The automation testing process will follow the below steps:
